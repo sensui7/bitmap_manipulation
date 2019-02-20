@@ -1,1 +1,1 @@
-# bitmap_manipulation
+# Bitmap Manipulation
